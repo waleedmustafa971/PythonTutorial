@@ -27,6 +27,8 @@ The tutorial aims to build a strong foundation and prepare you for real-world Py
 
 To get started with this tutorial, follow these steps:
 
+## unzip the folder first
+
 1- Clone the Repository:
 
 git clone https://github.com/waleedmustafa971/PythonTutorial.git
